@@ -7,6 +7,6 @@ cdk.out
 yalc.lock
 # dist
 .DS_Store
-lib/types
+# lib/types
 cache
 .idea
